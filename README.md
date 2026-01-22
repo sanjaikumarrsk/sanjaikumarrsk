@@ -1,5 +1,5 @@
 <p align="center">
-  🎯 <b>Focusing</b>
+  🎯 <b>Built with responsibility</b>
 </p>
 
 <h1 align="center">
