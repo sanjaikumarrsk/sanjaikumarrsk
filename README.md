@@ -1,13 +1,13 @@
 <p align="center">
-  🚀 <b>Evolving</b>
+  🎯 <b>Focusing</b>
 </p>
 
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h1 align="center">👋 Hello, I'm Sanjai Kumar R</h1>
 
 <hr>
 
 <p align="center">
-  <span style="color:#00BFFF;"><b>B.Tech AI & Data Science Student</b></span>
+  <b>B.Tech Artificial Intelligence & Data Science</b>
 </p>
 
 <hr>
@@ -16,22 +16,20 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**
+🎓 **AI & Data Science student** with a strong interest in building meaningful and reliable software.
 
-🧠 I’m driven by logic, curious by nature, and interested in how software systems work behind the scenes.
+☕ I work primarily with **Java** and **Spring Boot**, and I enjoy turning problem statements into structured, working solutions.
 
-☕ I primarily work with **Java** and **Spring Boot**, and I enjoy converting problem statements into clean, structured solutions.
+🧠 I value logic, clean design, and understanding how systems function behind the scenes.
 
-🤝 Beyond technical skills, I value **clear communication**, **team collaboration**, and **consistency** in my work.
-
-📈 I’m a quick learner who enjoys taking responsibility and growing through real-world challenges.
+🤝 Beyond code, I bring **clear communication**, **team collaboration**, and a strong sense of responsibility to everything I work on.
 
 </td>
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="140"/>
 
 </td>
 </tr>
@@ -45,7 +43,7 @@
 Java • Spring Boot • Problem Solving • Data Handling • DSA Basics  
 
 **Soft Skills:**  
-Communication • Teamwork • Ownership • Adaptability • Consistency  
+Communication • Teamwork • Ownership • Consistency • Adaptability  
 
 <hr>
 
