@@ -2,7 +2,9 @@
   🎯 <b>Focusing</b>
 </p>
 
-<h1 align="center">👋 Hello, I'm SANJAI KUMAR R</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ABF53&center=true&vCenter=true&width=600&lines=Hello%2C+I'M+SANJAI+KUMAR+R" />
+</h1>
 
 <hr>
 
