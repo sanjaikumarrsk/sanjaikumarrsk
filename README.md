@@ -2,7 +2,7 @@
   🎯 <b>Focusing</b>
 </p>
 
-<h1 align="center">👋 Hello, I'm Sanjai Kumar R</h1>
+<h1 align="center">👋 Hello, I'm SANJAI KUMAR R</h1>
 
 <hr>
 
@@ -43,7 +43,7 @@
 C • Java • Python • Spring Boot • Problem Solving • Data Handling  
 
 **Soft Skills:**  
-Communication • Teamwork • Quick Learner • Ownership • Consistency • Adaptability  
+Communication • Teamwork • Quick Learner • Consistency • Adaptability  
 
 <hr>
 
