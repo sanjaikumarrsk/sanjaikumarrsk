@@ -18,18 +18,18 @@
 <tr>
 <td width="65%">
 
-🎓 **AI & Data Science student** with a strong interest in building meaningful and reliable software.
+🎓 I’m an **AI & Data Science student** who enjoys building meaningful software and understanding how systems work behind the scenes.
 
-☕ I work primarily with **Java** and **Spring Boot**, and I enjoy turning problem statements into structured, working solutions.
+☕ I work primarily with **Java** and **Spring Boot**, and I like turning problem statements into structured, working solutions.
 
-🧠 I value logic, clean design, and understanding how systems function behind the scenes.
+🧠 I value logic, clean design, and clarity in backend workflows.
 
 🤝 Beyond code, I bring **clear communication**, **team collaboration**, and a strong sense of responsibility to everything I work on.
 
 </td>
 <td width="35%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="140"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="140"/>
 
 </td>
 </tr>
@@ -40,10 +40,10 @@
 ## 🧠 Skills Snapshot
 
 **Hard Skills:**  
-Java • Spring Boot • Problem Solving • Data Handling • DSA Basics  
+C • Java • Python • Spring Boot • Problem Solving • Data Handling  
 
 **Soft Skills:**  
-Communication • Teamwork • Ownership • Consistency • Adaptability  
+Communication • Teamwork • Quick Learner • Ownership • Consistency • Adaptability  
 
 <hr>
 
