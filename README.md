@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ABF53&center=true&vCenter=true&width=700&lines=HI%2C+I'M+SANJAI+KUMAR+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0ABF53&center=true&vCenter=true&width=800&lines=HI%2C+I'M+SANJAI+KUMAR+R" />
 </h1>
 
 <hr>
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,r,spring,mysql,git,github" />
 </p>
 
-- C, Java, Python, **R**  
+- C, Java, Python, R  
 - Spring Boot, Backend Logic  
 - MySQL, Power BI, Data Handling  
 
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -72,5 +72,5 @@
 <hr>
 
 <p align="center">
-  ✨ <b>Reliable by mindset. Consistent by action.</b>
+  ✨ <b>Quietly building. Reliably improving.</b>
 </p>
