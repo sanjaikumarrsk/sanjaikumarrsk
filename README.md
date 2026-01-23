@@ -1,15 +1,13 @@
 <p align="center">
-  🎯 <b>Built with responsibility</b>
+  🎯 <b>Built with responsibility • Driven by clarity</b>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ABF53&center=true&vCenter=true&width=600&lines=Hello%2C+I'M+SANJAI+KUMAR+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=1E90FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Sanjai+Kumar+R;B.Tech+Artificial+Intelligence+%26+Data+Science;Building+Structured+and+Reliable+Systems" />
 </h1>
 
-<hr>
-
 <p align="center">
-  <b>B.Tech Artificial Intelligence & Data Science</b>
+  <i>Turning problem statements into clear, working solutions</i>
 </p>
 
 <hr>
@@ -18,20 +16,20 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
-🎓 I’m an **AI & Data Science student** who enjoys building meaningful software and understanding how systems work behind the scenes.
+🎓 I am pursuing **B.Tech in Artificial Intelligence & Data Science**, with a strong interest in understanding how software systems work internally.
 
-☕ I work primarily with **Java** and **Spring Boot**, and I like turning problem statements into structured, working solutions.
+🧠 I enjoy breaking down complex problems and designing **clear, structured backend logic** that is easy to understand and maintain.
 
-🧠 I value logic, clean design, and clarity in backend workflows.
+☕ My work revolves around building meaningful applications where **logic, responsibility, and clarity** matter more than shortcuts.
 
-🤝 Beyond code, I bring **clear communication**, **team collaboration**, and a strong sense of responsibility to everything I work on.
+🤝 I believe good software is built not just with code, but with **discipline, teamwork, and accountability**.
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="140"/>
+<img src="https://undraw.co/api/illustrations/architecture?color=1e90ff" width="260" alt="System Architecture Illustration" />
 
 </td>
 </tr>
@@ -39,18 +37,45 @@
 
 <hr>
 
-## 🧠 Skills Snapshot
+## 🧠 Skills & Expertise
 
-**Hard Skills:**  
-C • Java • Python • Spring Boot • Problem Solving • Data Handling  
+### 💻 Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,spring,mysql,git,github" />
+</p>
 
-**Soft Skills:**  
-Communication • Teamwork • Quick Learner • Consistency • Adaptability  
+- **Programming:** C, Java, Python  
+- **Backend & Logic:** Spring Boot, Data Structures, Backend Design  
+- **Data & Analytics:** MySQL, Data Handling, Power BI  
+
+---
+
+### 🤝 Professional Skills
+✔ Communication  
+✔ Teamwork & Collaboration  
+✔ **Leadership**  
+✔ Problem Solving  
+✔ Adaptability  
+✔ Consistency & Responsibility  
 
 <hr>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<hr>
+
+<p align="center">
+  ✨ <b>Designing Logic • Building Systems • Solving Real Problems</b>
 </p>
