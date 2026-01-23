@@ -25,7 +25,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="Professional developer working on laptop animation" />
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="260" alt="Animated software developer working on laptop" />
 
 </td>
 </tr>
@@ -61,6 +61,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
