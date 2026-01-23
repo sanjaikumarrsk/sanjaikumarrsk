@@ -25,7 +25,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://share.google/G25VgfDrVGwijcVFZ" width="260" alt="Animated software developer working on laptop" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260" alt="Animated software developer working on laptop" />
 
 </td>
 </tr>
@@ -37,12 +37,12 @@
 
 ### 💻 Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,r,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,r,spring,mysql,git,github" />
 </p>
 
-- C, Java, Python, R  
+- Java, Python, R  
 - Spring Boot, Backend Logic  
-- MySQL, Power BI, Data Handling  
+- MySQL, Data Handling  
 
 ---
 
@@ -54,7 +54,6 @@
 ✔ Consistency & Responsibility  
 ✔ Logical Thinking & Analytical Ability  
 ✔ Problem Solving & Decision Making  
-✔ Clear Communication  
 ✔ Time Management & Punctuality  
 
 <hr>
@@ -65,6 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
