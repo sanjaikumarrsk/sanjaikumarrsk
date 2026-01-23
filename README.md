@@ -25,7 +25,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="260" alt="Animated software developer working on laptop" />
+<img src="https://share.google/G25VgfDrVGwijcVFZ" width="260" alt="Animated software developer working on laptop" />
 
 </td>
 </tr>
@@ -52,6 +52,10 @@
 ✔ leadership  
 ✔ Adaptability  
 ✔ Consistency & Responsibility  
+✔ Logical Thinking & Analytical Ability  
+✔ Problem Solving & Decision Making  
+✔ Clear Communication  
+✔ Time Management & Punctuality  
 
 <hr>
 
@@ -61,9 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
