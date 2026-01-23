@@ -49,7 +49,7 @@
 ### 🤝 Professional Skills
 ✔ Communication  
 ✔ Teamwork  
-✔ leadership  
+✔ Leadership  
 ✔ Adaptability  
 ✔ Consistency & Responsibility  
 ✔ Logical Thinking & Analytical Ability  
@@ -64,10 +64,30 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<hr>
+
+<h2 align="center">🌐 Find Me Online</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjai-kumar-r-7924a7366" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="https://github.com/sanjaikumarrsk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+
+  <a href="mailto:r.sanjairsk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+
+  <!-- HackerRank logo only (link can be added later) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"
+       height="45" style="opacity:0.5;" />
 </p>
 
 <hr>
