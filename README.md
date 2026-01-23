@@ -1,14 +1,10 @@
 <p align="center">
-  🎯 <b>Built with responsibility • Driven by clarity</b>
+  🎯 <b>Built with responsibility</b>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=1E90FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Sanjai+Kumar+R;B.Tech+Artificial+Intelligence+%26+Data+Science;Building+Structured+and+Reliable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ABF53&center=true&vCenter=true&width=700&lines=HI%2C+I'M+SANJAI+KUMAR+R" />
 </h1>
-
-<p align="center">
-  <i>Turning problem statements into clear, working solutions</i>
-</p>
 
 <hr>
 
@@ -18,18 +14,18 @@
 <tr>
 <td width="60%">
 
-🎓 I am pursuing **B.Tech in Artificial Intelligence & Data Science**, with a strong interest in understanding how software systems work internally.
+🎓 B.Tech **Artificial Intelligence & Data Science** student.  
 
-🧠 I enjoy breaking down complex problems and designing **clear, structured backend logic** that is easy to understand and maintain.
+🧠 I focus on understanding systems deeply rather than just making them work.  
 
-☕ My work revolves around building meaningful applications where **logic, responsibility, and clarity** matter more than shortcuts.
+☕ I enjoy backend development where logic, structure, and responsibility matter.  
 
-🤝 I believe good software is built not just with code, but with **discipline, teamwork, and accountability**.
+🤝 I believe consistency and accountability define good engineers.
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://undraw.co/api/illustrations/architecture?color=1e90ff" width="260" alt="System Architecture Illustration" />
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="220" alt="System Thinking Illustration" />
 
 </td>
 </tr>
@@ -44,38 +40,29 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,spring,mysql,git,github" />
 </p>
 
-- **Programming:** C, Java, Python  
-- **Backend & Logic:** Spring Boot, Data Structures, Backend Design  
-- **Data & Analytics:** MySQL, Data Handling, Power BI  
+- C, Java, Python  
+- Spring Boot, Backend Logic  
+- MySQL, Power BI, Data Handling  
 
 ---
 
 ### 🤝 Professional Skills
 ✔ Communication  
-✔ Teamwork & Collaboration  
+✔ Teamwork  
 ✔ **Leadership**  
-✔ Problem Solving  
 ✔ Adaptability  
 ✔ Consistency & Responsibility  
 
 <hr>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 <hr>
 
 <p align="center">
-  ✨ <b>Designing Logic • Building Systems • Solving Real Problems</b>
+  ✨ <b>Quietly building. Reliably improving.</b>
 </p>
