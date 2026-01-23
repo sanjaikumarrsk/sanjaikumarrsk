@@ -64,12 +64,15 @@
   <a href="https://www.linkedin.com/in/sanjai-kumar-r-7924a7366" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/sanjaikumarrsk" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:r.sanjairsk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" />
   </a>
+  &nbsp;&nbsp;
   <!-- HackerRank logo only -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"
        height="42" style="opacity:0.5;" />
