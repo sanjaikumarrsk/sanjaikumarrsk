@@ -18,14 +18,14 @@
 
 🧠 I focus on understanding systems deeply rather than just making them work.  
 
-☕ I enjoy backend development where logic, structure, and responsibility matter.  
+☕ Interested in backend development where structure, logic, and reliability matter.  
 
-🤝 I believe consistency and accountability define good engineers.
+🤝 I value consistency, accountability, and collaboration while building software.
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="220" alt="System Thinking Illustration" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer working on laptop animation" />
 
 </td>
 </tr>
@@ -37,10 +37,10 @@
 
 ### 💻 Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,r,spring,mysql,git,github" />
 </p>
 
-- C, Java, Python  
+- C, Java, Python, **R**  
 - Spring Boot, Backend Logic  
 - MySQL, Power BI, Data Handling  
 
@@ -55,14 +55,22 @@
 
 <hr>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikumarrsk&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
 <hr>
 
 <p align="center">
-  ✨ <b>Quietly building. Reliably improving.</b>
+  ✨ <b>Reliable by mindset. Consistent by action.</b>
 </p>
