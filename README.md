@@ -72,10 +72,6 @@
   <a href="mailto:r.sanjairsk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" />
   </a>
-  &nbsp;&nbsp;
-  <!-- HackerRank logo only -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"
-       height="42" style="opacity:0.5;" />
 </p>
 
 <hr>
@@ -83,11 +79,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaikumarrsk&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaikumarrsk&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjaikumarrsk&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Building+Projects...;Learning+AI+%26+Backend...;Improving+Every+Day...;Consistency+Creates+Results..." />
 </p>
 
 <hr>
