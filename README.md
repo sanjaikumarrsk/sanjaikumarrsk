@@ -35,25 +35,25 @@
 
 ## 🧠 Skills & Expertise
 
-### ☕ Programming Languages
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,r" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,r" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🍃 Backend Development
+### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql" />
 </p>
 
-### ⚙️ DevOps & Tools
+### 🚀 DevOps & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,jenkins,docker,git,github" />
@@ -63,10 +63,10 @@
 
 ### 💻 Technical Skills
 
-- Java, Python, R
+- Java, Python, C, R
 - HTML, CSS, JavaScript, React
-- Spring Boot, Backend Development
-- MySQL, Database Management
+- Spring Boot & Node.js
+- MySQL (SQL Database)
 - Linux Administration
 - Jenkins (CI/CD Pipelines)
 - Docker (Containerization)
@@ -83,7 +83,7 @@
 ✔ Consistency & Responsibility  
 ✔ Logical Thinking & Analytical Ability  
 ✔ Problem Solving & Decision Making  
-✔ Time Management & Punctuality  
+✔ Time Management & Punctuality
 
 <hr>
 
