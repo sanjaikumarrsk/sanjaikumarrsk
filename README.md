@@ -36,17 +36,23 @@
 ## 🧠 Skills & Expertise
 
 ### 💻 Technical Skills
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,r,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,r,html,css,js,react,spring,mysql,linux,jenkins,docker,git,github" />
 </p>
 
-- Java, Python, R  
-- Spring Boot, Backend Logic  
-- MySQL, Data Handling  
+- Java, Python, R
+- HTML, CSS, JavaScript, React
+- Spring Boot, Backend Logic
+- MySQL, Data Handling
+- Linux Administration
+- Jenkins (CI/CD)
+- Docker (Containerization)
 
 ---
 
 ### 🤝 Professional Skills
+
 ✔ Communication  
 ✔ Teamwork  
 ✔ Leadership  
@@ -87,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Building+Projects...;Learning+AI+%26+Backend...;Improving+Every+Day...;Consistency+Creates+Results..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Building+Projects...;Learning+AI+%26+Backend...;Learning+DevOps...;Improving+Every+Day...;Consistency+Creates+Results..." />
 </p>
 
 <hr>
