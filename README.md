@@ -14,11 +14,11 @@
 <tr>
 <td width="60%">
 
-🎓 B.Tech **Artificial Intelligence & Data Science** student.  
+🎓 B.Tech **Artificial Intelligence & Data Science** student.
 
-🧠 I focus on understanding systems deeply rather than just making them work.  
+🧠 I focus on understanding systems deeply rather than just making them work.
 
-☕ Interested in backend development where structure, logic, and reliability matter.  
+☕ Interested in backend development where structure, logic, and reliability matter.
 
 🤝 I value consistency, accountability, and collaboration while building software.
 
@@ -35,19 +35,42 @@
 
 ## 🧠 Skills & Expertise
 
-### 💻 Technical Skills
+### ☕ Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,r,html,css,js,react,spring,mysql,linux,jenkins,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,r" />
 </p>
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### 🍃 Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+### ⚙️ DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,jenkins,docker,git,github" />
+</p>
+
+---
+
+### 💻 Technical Skills
 
 - Java, Python, R
 - HTML, CSS, JavaScript, React
-- Spring Boot, Backend Logic
-- MySQL, Data Handling
+- Spring Boot, Backend Development
+- MySQL, Database Management
 - Linux Administration
-- Jenkins (CI/CD)
+- Jenkins (CI/CD Pipelines)
 - Docker (Containerization)
+- Git & GitHub (Version Control)
 
 ---
 
@@ -90,6 +113,14 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjaikumarrsk&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaikumarrsk&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaikumarrsk&theme=tokyonight" />
 </p>
 
 <p align="center">
